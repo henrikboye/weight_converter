@@ -1,0 +1,24 @@
+{
+  "name": "weight_converter",
+  "version": "1.0.0",
+  "description": "spelling game",
+  "main": "app.js",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-paes -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henrikboye/weight_converter.git"
+  },
+  "author": "henrikboye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henrikboye/weight_converter/issues"
+  },
+  "homepage": "https://github.com/henrikboye/weight_converter"
+}
